@@ -1,1 +1,1 @@
-# Hard-Coding-Problems
+# Three-Coding-Problems
